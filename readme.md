@@ -2,3 +2,4 @@
 
 https://docs.microsoft.com/pt-br/dotnet/core/testing/unit-testing-with-dotnet-test
 
+    dotnet test
